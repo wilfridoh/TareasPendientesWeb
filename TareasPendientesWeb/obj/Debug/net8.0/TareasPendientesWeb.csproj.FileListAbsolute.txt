@@ -1,0 +1,72 @@
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.csproj.AssemblyReference.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.AssemblyInfoInputs.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.AssemblyInfo.cs
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.csproj.CoreCompileInputs.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.RazorAssemblyInfo.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.RazorAssemblyInfo.cs
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\refint\TareasPendientesWeb.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.pdb
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\bin\Debug\net8.0\appsettings.Development.json
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\bin\Debug\net8.0\appsettings.json
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\bin\Debug\net8.0\TareasPendientesWeb.staticwebassets.runtime.json
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\bin\Debug\net8.0\TareasPendientesWeb.exe
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\bin\Debug\net8.0\TareasPendientesWeb.deps.json
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\bin\Debug\net8.0\TareasPendientesWeb.runtimeconfig.json
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\bin\Debug\net8.0\TareasPendientesWeb.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\bin\Debug\net8.0\TareasPendientesWeb.pdb
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\bin\Debug\net8.0\RestSharp.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\staticwebassets.build.json
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\staticwebassets.development.json
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\staticwebassets\msbuild.TareasPendientesWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\staticwebassets\msbuild.build.TareasPendientesWeb.props
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TareasPendientesWeb.props
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TareasPendientesWeb.props
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\staticwebassets.pack.json
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\scopedcss\bundle\TareasPendientesWeb.styles.css
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\scopedcss\projectbundle\TareasPendientesWeb.bundle.scp.css
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.csproj.CopyComplete
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.genruntimeconfig.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb - copia\TareasPendientesWeb\obj\Debug\net8.0\ref\TareasPendientesWeb.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\bin\Debug\net8.0\appsettings.Development.json
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\bin\Debug\net8.0\appsettings.json
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\bin\Debug\net8.0\TareasPendientesWeb.staticwebassets.runtime.json
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\bin\Debug\net8.0\TareasPendientesWeb.exe
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\bin\Debug\net8.0\TareasPendientesWeb.deps.json
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\bin\Debug\net8.0\TareasPendientesWeb.runtimeconfig.json
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\bin\Debug\net8.0\TareasPendientesWeb.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\bin\Debug\net8.0\TareasPendientesWeb.pdb
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\bin\Debug\net8.0\RestSharp.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.csproj.AssemblyReference.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.AssemblyInfoInputs.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.AssemblyInfo.cs
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.csproj.CoreCompileInputs.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.RazorAssemblyInfo.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.RazorAssemblyInfo.cs
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\staticwebassets.build.json
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\staticwebassets.development.json
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\staticwebassets\msbuild.TareasPendientesWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\staticwebassets\msbuild.build.TareasPendientesWeb.props
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TareasPendientesWeb.props
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TareasPendientesWeb.props
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\staticwebassets.pack.json
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\scopedcss\bundle\TareasPendientesWeb.styles.css
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\scopedcss\projectbundle\TareasPendientesWeb.bundle.scp.css
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.csproj.CopyComplete
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\refint\TareasPendientesWeb.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.pdb
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\TareasPendientesWeb.genruntimeconfig.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWeb\TareasPendientesWeb\obj\Debug\net8.0\ref\TareasPendientesWeb.dll

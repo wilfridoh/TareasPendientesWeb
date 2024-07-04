@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "dxtgxhWIKIOL5jdxzUYuzgHeBVAuHNMAB/G54LdD2WY7wUz1PKdxWAUKqBCVvAxf3taUqEy/eWDx7ZACsCrJKw==",
+  "success": true,
+  "projectFilePath": "C:\\respos\\CLAUDIO_HIDALGO\\TareasPendientesWeb\\TareasPendientesWeb\\TareasPendientesWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jguevara\\.nuget\\packages\\jquery\\2.0.0\\jquery.2.0.0.nupkg.sha512",
+    "C:\\Users\\jguevara\\.nuget\\packages\\jquery.ui.combined\\1.13.2\\jquery.ui.combined.1.13.2.nupkg.sha512",
+    "C:\\Users\\jguevara\\.nuget\\packages\\microsoft.aspnet.webapi.client\\6.0.0\\microsoft.aspnet.webapi.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\jguevara\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\jguevara\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\jguevara\\.nuget\\packages\\restsharp\\111.3.0\\restsharp.111.3.0.nupkg.sha512",
+    "C:\\Users\\jguevara\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\jguevara\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "jQuery.UI.Combined 1.13.2 depende de jQuery (>= 1.13.1), pero no se encontró jQuery 1.13.1. Se resolvió una mejor coincidencia aproximada de jQuery 2.0.0.",
+      "libraryId": "jQuery",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

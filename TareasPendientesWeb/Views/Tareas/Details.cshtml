@@ -1,0 +1,48 @@
+﻿@model TareasPendientesWeb.Models.TareasPendientes
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Detalles de las Tareas Pendientes</h2>
+
+<div>
+    <h4>Tareas Pendientes</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.id)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.id)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.descripcion)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.descripcion)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.fechaCreacion)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.fechaCreacion)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.fechaVencimiento)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.fechaVencimiento)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.completada)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.completada)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Editar Tarea", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Ir a Lista de Tareas", "Index")
+</div>

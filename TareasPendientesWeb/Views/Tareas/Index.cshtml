@@ -1,0 +1,59 @@
+﻿@model IEnumerable<TareasPendientesWeb.Models.TareasPendientes>
+
+@{
+    ViewBag.Title = "Tareas";
+}
+
+<h2>Lista de Tareas Pendientes</h2>
+
+<p>
+    @Html.ActionLink("Crea nueva tarea", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.First().id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().descripcion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().fechaCreacion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().fechaVencimiento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().completada)
+        </th>
+        <th>Acciones</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fechaCreacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fechaVencimiento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.completada)
+            </td>
+            <td>
+                @Html.ActionLink("Editar Tarea", "Edit", new { id = item.id }) |
+                @Html.ActionLink("Detalles Tarea", "Details", new { id = item.id }) |
+                @Html.ActionLink("Eliminar Tarea", "Delete", new { id = item.id })
+            </td>
+        </tr>
+    }
+
+</table>
